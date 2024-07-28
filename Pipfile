@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numpy = "*"
+sqlalchemy = "*"
+nltk = "*"
+scikit-learn = "*"
+joblib = "*"
+plotly = "*"
+flask = "*"
+
+[dev-packages]
+isort = "*"
+flake8 = "*"
+black = {extras = ["jupyter"], version = "*"}
+autopep8 = "*"
+pylint = "*"
+
+[requires]
+python_version = "3.11"
+python_full_version = "3.11.2"
