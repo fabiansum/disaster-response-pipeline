@@ -1,5 +1,8 @@
 # Disaster Response Pipeline Project
 
+![Input Text](https://github.com/fabiansum/disaster-response-pipeline/blob/main/assets/display_input_text.PNG)
+![Model Results](https://github.com/fabiansum/disaster-response-pipeline/blob/main/assets/display_model_results.PNG)
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
