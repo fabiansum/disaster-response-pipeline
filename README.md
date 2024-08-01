@@ -6,8 +6,8 @@ The Disaster Response Pipeline Project is designed to significantly improve the 
 ### Key Benefits:
 - **Rapid Response**: The application processes and categorizes messages in real-time, allowing emergency responders to act quickly and efficiently.
 - **Enhanced Decision Making**: By organizing messages into specific categories, the application helps responders identify the most critical needs and allocate resources where they are needed the most.
-- **Scalability**: The system can handle a large volume of messages, making it suitable for use in large-scale disaster situations where communication influx is high.
 - **User-Friendly Interface**: Provides an interactive web interface that is easy for responders to use, ensuring that the technology supports them rather than hinders their efforts.
+<!-- - **Scalability**: The system can handle a large volume of messages, making it suitable for use in large-scale disaster situations where communication influx is high. -->
 
 This project aims to bridge the gap between disaster communication and response, ensuring that help can be provided faster and more effectively during critical times.
 
